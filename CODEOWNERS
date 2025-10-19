@@ -1,17 +1,1 @@
-# CODEOWNERS — specify who owns which parts of the codebase
-# Format: <pattern> <@username|@org/team>
-
-# Default owner for everything
 * @TheErenYeagerx
-
-# Repo configuration and workflows:
-.github/ @TheErenYeagerx
-.github/workflows/ @TheErenYeagerx
-
-# Python source and dependency files:
-*.py @TheErenYeagerx
-requirements.txt @TheErenYeagerx
-Pipfile @TheErenYeagerx
-pyproject.toml @TheErenYeagerx
-Dockerfile @TheErenYeagerx
-docker-compose.yml @TheErenYeagerx
