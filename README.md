@@ -2,8 +2,7 @@
 
 ![Lishiya Banner](https://files.catbox.moe/u23zkg.jpg)
 
-**Anime-themed Telegram moderation bot** built with **Python 3.10+, Pyrogram, and MongoDB**.  
-Upgrade of [EditGuardianBot](https://github.com/Shauryanoobhai/EditGuardianBot) with better performance, async database, and optimized performance.
+**Anime-themed Telegram moderation bot** built with **Python 3.10+, Pyrogram, and MongoDB**.
 
 ---
 
@@ -50,7 +49,7 @@ Upgrade of [EditGuardianBot](https://github.com/Shauryanoobhai/EditGuardianBot) 
 ```bash
 # Clone repository
 git clone https://github.com/TheErenYeager/Lishiya.git
-cd LishiyaEditGuardianBot
+cd Lishiya
 
 # Install dependencies
 pip install -r requirements.txt
